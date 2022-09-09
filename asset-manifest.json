@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wasdup/static/css/main.073c9b0a.css",
+    "main.js": "/wasdup/static/js/main.0b689972.js",
+    "static/js/787.0de42a63.chunk.js": "/wasdup/static/js/787.0de42a63.chunk.js",
+    "static/media/logo.svg": "/wasdup/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/wasdup/index.html",
+    "main.073c9b0a.css.map": "/wasdup/static/css/main.073c9b0a.css.map",
+    "main.0b689972.js.map": "/wasdup/static/js/main.0b689972.js.map",
+    "787.0de42a63.chunk.js.map": "/wasdup/static/js/787.0de42a63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0b689972.js"
+  ]
+}
