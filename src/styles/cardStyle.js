@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const CardBody = styled.section`
   width: 300px;
-  height: 570px;
+  height: 500px;
   margin: 1em auto;
   padding: 30px 10px;
   display: flex;

@@ -2,6 +2,7 @@ import "./App.css";
 import React from "react";
 import Feed from "./components/Feed";
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Feed />
       <Feed />
       <Feed />
+      <Footer />
     </div>
   );
 }

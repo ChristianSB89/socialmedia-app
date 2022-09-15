@@ -14,7 +14,8 @@ export const IconSearch = styled.img`
 
 export const BottomImg = styled.img`
   width: 25px;
-  padding: 0 1em;
+  padding: 0;
+  margin-right: 1em;
   opacity: 90%;
 `;
 
@@ -55,12 +56,13 @@ export const TopHeader = styled.section`
 `;
 
 export const BottomHeader = styled.section`
+  width: 90%;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
   padding: 5px 0;
-  width: 26.5625em;
+  width: 100%;
   background: rgba(255, 255, 255, 0.3);
   border-top: 1px solid rgba(255, 255, 255, 0.5);
   backdrop-filter: blur(20px);
