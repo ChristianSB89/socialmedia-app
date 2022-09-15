@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/wasdup/static/css/main.c8b5f2c5.css",
-    "main.js": "/wasdup/static/js/main.5bfe7876.js",
+    "main.js": "/wasdup/static/js/main.920eeb5f.js",
     "static/media/avatar-placeholder.png": "/wasdup/static/media/avatar-placeholder.240eff7703b9b2347eaf.png",
     "static/media/wasdup-logo-finished.png": "/wasdup/static/media/wasdup-logo-finished.ad13c7601235d144d268.png",
+    "static/media/boyband.png": "/wasdup/static/media/boyband.f80668c3d2406ed7a993.png",
     "static/media/gamer.svg": "/wasdup/static/media/gamer.227630054a72391442de88449edfed22.svg",
     "index.html": "/wasdup/index.html",
     "main.c8b5f2c5.css.map": "/wasdup/static/css/main.c8b5f2c5.css.map",
-    "main.5bfe7876.js.map": "/wasdup/static/js/main.5bfe7876.js.map"
+    "main.920eeb5f.js.map": "/wasdup/static/js/main.920eeb5f.js.map"
   },
   "entrypoints": [
     "static/css/main.c8b5f2c5.css",
-    "static/js/main.5bfe7876.js"
+    "static/js/main.920eeb5f.js"
   ]
 }
