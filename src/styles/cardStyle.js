@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
 export const CardBody = styled.section`
-  width: 300px;
-  height: 500px;
+  width: 18.75em;
+  height: 31.25em;
   margin: 1em auto;
   padding: 30px 10px;
   display: flex;
@@ -47,4 +47,37 @@ export const CardHeader = styled.section`
   border-top: 1px solid #ffffff;
   border-radius: 20px;
   gap: 10px;
+`;
+
+export const ImagePost = styled.img`
+  width: 250px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 20px;
+  margin: 1em;
+`;
+
+export const TextPost = styled.section`
+  padding: 1em;
+  width: 250px;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.1988) 0%,
+    rgba(255, 255, 255, 0.28) 100%
+  );
+  border-top: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 20px;
+`;
+
+export const Interaction = styled.section`
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  gap: 10px;
+
+  position: relative;
+  width: 250px;
+  height: 40.67px;
 `;

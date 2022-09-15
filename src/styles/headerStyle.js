@@ -71,7 +71,7 @@ export const BottomHeader = styled.section`
 export const InputField = styled.input`
   width: 15em;
   height: 2.125em;
-  border-radius: 20px;
+  border-radius: 10px;
 `;
 
 export const MiniNav = styled.section`
